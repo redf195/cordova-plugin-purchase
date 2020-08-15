@@ -52,5 +52,8 @@
     "preprocessor": "^1.4.0",
     "uglify-js": "^3.6.0"
   },
-  "types": "./src/js/index.d.ts"
+  "types": "./src/js/index.d.ts",
+  "dependencies": {
+    "preprocess": "^3.2.0"
+  }
 }
